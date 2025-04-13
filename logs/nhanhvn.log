@@ -1,0 +1,70 @@
+[2025-03-10 04:24:07] Starting inventory sync...
+[2025-03-10 04:24:07] API Request to: https://graph.nhanh.vn/api/product/inventory
+[2025-03-10 04:24:07] API Params: Array
+(
+    [version] => 2.0
+    [appId] => 
+    [businessId] => 
+    [accessToken] => 
+    [page] => 1
+    [limit] => 100
+)
+
+[2025-03-10 04:24:07] Curl error: Could not resolve host: graph.nhanh.vn
+[2025-03-10 04:24:07] Request URL: https://graph.nhanh.vn/api/product/inventory
+[2025-03-10 04:24:07] Request params: Array
+(
+    [version] => 2.0
+    [appId] => 
+    [businessId] => 
+    [accessToken] => 
+    [page] => 1
+    [limit] => 100
+)
+
+[2025-03-10 04:24:07] Failed to sync inventory: Unknown error
+[2025-03-10 04:24:20] API Request to: https://graph.nhanh.vn/api/product/all
+[2025-03-10 04:24:20] API Params: Array
+(
+    [version] => 2.0
+    [appId] => 
+    [businessId] => 
+    [accessToken] => 
+    [test] => 1
+)
+
+[2025-03-10 04:24:20] Curl error: Could not resolve host: graph.nhanh.vn
+[2025-03-10 04:24:20] Request URL: https://graph.nhanh.vn/api/product/all
+[2025-03-10 04:24:20] Request params: Array
+(
+    [version] => 2.0
+    [appId] => 
+    [businessId] => 
+    [accessToken] => 
+    [test] => 1
+)
+
+[2025-03-10 04:24:22] API Request to: https://graph.nhanh.vn/api/product/all
+[2025-03-10 04:24:22] API Params: Array
+(
+    [version] => 2.0
+    [appId] => 
+    [businessId] => 
+    [accessToken] => 
+    [page] => 1
+    [limit] => 50
+)
+
+[2025-03-10 04:24:22] Curl error: Could not resolve host: graph.nhanh.vn
+[2025-03-10 04:24:22] Request URL: https://graph.nhanh.vn/api/product/all
+[2025-03-10 04:24:22] Request params: Array
+(
+    [version] => 2.0
+    [appId] => 
+    [businessId] => 
+    [accessToken] => 
+    [page] => 1
+    [limit] => 50
+)
+
+[2025-03-10 04:24:22] Failed to sync products: Unknown error
